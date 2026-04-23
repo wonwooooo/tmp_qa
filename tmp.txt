@@ -1,2 +1,1 @@
-qa test
-git
+지금 이건 smartcode 에서 작성한 겁니다.
